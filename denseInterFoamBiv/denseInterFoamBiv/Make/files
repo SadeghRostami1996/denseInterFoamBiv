@@ -1,0 +1,3 @@
+denseInterFoamBiv.C
+
+EXE = $(FOAM_APPBIN)/denseInterFoamBiv
